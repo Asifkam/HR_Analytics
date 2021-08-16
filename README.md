@@ -8,7 +8,7 @@ In this competition(Analytics Vidhya(Hackathons)) our client is WNS Analytics, a
 2. Selected employees go through the separate training and evaluation program for each vertical.
    These programs are based on the required skill of each vertical;
 3. At the end of the program, based on various factors such as training performance, 
-   KPI completion (only employees with KPIs completed greater than 60% are considered) etc.,an employee gets a promotion.
+   KPI completion, etc.,an employee gets a promotion.
 
 ![image](https://user-images.githubusercontent.com/72183359/129584531-c29fa323-73c2-4fa3-a990-f835663e6b01.png)
 
