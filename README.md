@@ -18,7 +18,7 @@ The company needs our help in identifying the eligible candidates at a particula
 1. Understand the Problem Statement and Import the Packages and Datasets
 2. Fill/Impute Missing Values
 3. Perform EDA
-4. Data Encoding : OneHot Encoding
+4. Data Encoding
 5. Feature Selection
 6. Split Train Data
 7. Train_Test Split
