@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/72183359/134791388-424b476b-f467-4d93-bca1-df6dd8fa60a1.png)
+
 # HR_Analytics
  Identified the right people for promotion among twenty thousand plus employees using machine learning.
 
